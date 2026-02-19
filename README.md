@@ -17,5 +17,5 @@ DAX formulas were implemented to create dynamic measures, KPIs, and time-intelli
    🌍 Enables policymakers to identify high-pollution zones for targeted intervention
    📈 Improves transparency by making air quality data accessible and easy to interpret
 
-
+https://github.com/arushigarg270/AQI-Dashboard/blob/main/Snapshot%20of%20the%20AQI%20Dashboard.png
    
